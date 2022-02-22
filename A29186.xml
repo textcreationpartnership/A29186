@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious meditation upon the dealings of God vvith England and the state thereof in general</title>
+            <author>Braithwaite, John, fl. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29186</idno>
+            <idno type="STC">Wing B4207</idno>
+            <idno type="STC">ESTC R29052</idno>
+            <idno type="EEBO-CITATION">10802745</idno>
+            <idno type="OCLC">ocm 10802745</idno>
+            <idno type="VID">45969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45969)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1416:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious meditation upon the dealings of God vvith England and the state thereof in general</title>
+                  <author>Braithwaite, John, fl. 1660.</author>
+               </titleStmt>
+               <extent>[1], 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by NUC pre-1956 imprints, Wing.</note>
+                  <note>Signed at end: John Braithwait.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance.</term>
+               <term>Conversion.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45969:1" rendition="simple:additions"/>
+            <head>A Serious MEDITATION UPON The Dealings of God vvith England, and the State thereof in general.</head>
+            <p>O <hi>England!</hi> thy day of <hi>viſitation</hi> from the <hi>Lord,</hi> hath been exceed<g ref="char:EOLhyphen"/>ing large, and his dealings with thee exceeding wonderful, when thou waſt in <hi>diſtreſs</hi> and cryed unto the <hi>Lord,</hi> he heard thee, and deli<g ref="char:EOLhyphen"/>vered thee from thy <hi>oppreſſors;</hi> but Oh how quickly haſt thou forgot<g ref="char:EOLhyphen"/>ten the loving kindneſs of the <hi>Lord,</hi> and the Dealings of thy <hi>God!</hi> Remember the dayes that are paſt when thou waſt in <hi>bondage</hi> and <hi>ſlave<g ref="char:EOLhyphen"/>ry,</hi> and deſired freedome to <hi>Worſhip</hi> the <hi>Lord,</hi> and the <hi>Lord</hi> heard, and granted unto thee thy deſire, and alſo made known the way of his <hi>Wor<g ref="char:EOLhyphen"/>ſhip</hi> within thy <hi>Borders,</hi> in thy <hi>Towns,</hi> in thy <hi>Streets,</hi> in thy <hi>Aſſemblies,</hi> hath the <hi>Lord</hi> proclaimed the <hi>Way</hi> of <hi>Life</hi> and <hi>Salvation,</hi> by his <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> and <hi>Servants:</hi> But oh how haſt thou required the <hi>Lord</hi> for his loving kindneſs! How haſt thou intreated his <hi>Servants</hi> with <hi>Priſons, Whippings,</hi> and <hi>Revilings!</hi> who bare their <hi>Teſtimony</hi> againſt thy <hi>Wick<g ref="char:EOLhyphen"/>edneſs,</hi> againſt thy <hi>Pride</hi> and <hi>Covetouſneſs,</hi> and <hi>Idolatry;</hi> but oh how haſt thou rejected the Counſel of the <hi>Lord!</hi> and hath choſen thine <hi>own wayes,</hi> and followed thine <hi>own Counſel,</hi> and hardned thy <hi>heart,</hi> and ſtiff<g ref="char:EOLhyphen"/>ned thy <hi>neck:</hi> even like a <hi>Rebellious people,</hi> that would none of the <hi>Law</hi> of the <hi>Lord,</hi> and therefore thou muſt eat the fruit of thy own doings, <hi>and confeſs that the Lord is juſt in all his wayes, and Righteous in all his judgments;</hi> for thou haſt ſinned againſt the <hi>Lord,</hi> in that thou haſt not performed thy <hi>Promiſes,</hi> which thou made in the <hi>Day</hi> of thy <hi>Diſtreſs;</hi> and therefore <hi>Diſtreſs</hi> muſt come upon thee <hi>again,</hi> to bring thee to remember thoſe things and <hi>repeat,</hi> which if thou do, the <hi>Lord</hi> will have <hi>mercy</hi> upon thee, and <hi>heal</hi> thy <hi>back-ſlidings,</hi> but if thou do not, but con<g ref="char:EOLhyphen"/>tinue in thy <hi>Rebellion,</hi> the <hi>Lord</hi> will continue his <hi>Judgments upon thee: Should not the long-ſuffering of the Lord lead thee to Repentance, and his gentle dealings with thee by correction, cauſe thee to underſtand that he loves thee?</hi> but if thou wilt not receive inſtruction, by all his <hi>gentle dealings,</hi> but wilt go on in thy <hi>wickedneſs;</hi> What canſt thou then ex<g ref="char:EOLhyphen"/>pect, but the <hi>Indignation</hi> of the <hi>Lord</hi> to fall upon thee? What doſt thou think if thou continue in perſecuting the <hi>Servants</hi> of the <hi>Lord,</hi>
+               <pb n="1" facs="tcp:45969:2" rendition="simple:additions"/>(to wit) thoſe that tell thee of thy <hi>Wickedneſs,</hi> thy <hi>Pride</hi> and <hi>Covetouſ<g ref="char:EOLhyphen"/>neſs;</hi> doſt thou think that that will turn the <hi>Judgments</hi> of <hi>God</hi> from thee? ſurely nay, that will but haſten <hi>Wo</hi> and <hi>Miſery</hi> upon thy own head; Oh what a day of <hi>viſitation</hi> haſt thou had! How many times hath the <hi>Lord</hi> delivered thee! and now it may be ſaid by thee, as it was once concernig <hi>Iſrael</hi> of old; <hi>yea they turned back and tempted God, and limitted the holy one of Iſrael; they remembred not his Hand, nor the Day when he delivered them from the Enemy:</hi> Is not this thy condition oh <hi>England?</hi> although indeed the <hi>Lord</hi> hath a <hi>remnant</hi> in thee, that do <hi>not bow their knees to Baal, nor pour out drink-offerings to the Queen of Heaven;</hi> and this <hi>remnant</hi> are thoſe which thou calls <hi>TROUBLERS OF THY PEACE,</hi> which <hi>trouble thee</hi> much, like as <hi>Elia troubled Iſrael,</hi> and this <hi>remnant</hi> that <hi>Woman Jeſſabel,</hi> (I <hi>mean</hi> thy <hi>falſe Church that paints her ſelf</hi>) would have deſtroyed, that ſo her <hi>falſe Prophets</hi> which feeds at her <hi>Table,</hi> might not be Troubled, but Trouble muſt come upon them, and their <hi>peace</hi> muſt be broken; and although <hi>Jeſſa<g ref="char:EOLhyphen"/>bel</hi> cauſe a <hi>Faſt</hi> to be <hi>Proclaimed,</hi> yet God will execute his <hi>judgment</hi> in thee, and if thou ſay in thy heart, wherefore come theſe things upon me? for the greatneſs of thine <hi>Iniquityes</hi> are thy <hi>skirts</hi> diſcovered, and thy <hi>heels</hi> made <hi>bare,</hi> for the <hi>Lord</hi> hath ſeen thy <hi>Adulteryes,</hi> and thy <hi>Neighings,</hi> the <hi>Lewdneſs</hi> of thy <hi>Whoredoms,</hi> and thine <hi>Abominations</hi> on the <hi>Hills,</hi> in the <hi>fields;</hi> Woe unto thee oh <hi>England!</hi> Wilt thou not be made clean, when ſhall it once be?</p>
+            <p>Oh! What a large <hi>profeſſion</hi> hath been made in thee? What a talk of <hi>Godlineſs</hi> and <hi>Chriſtianity,</hi> but alas what is found in thee? Doth not <hi>Pride</hi> and <hi>Envy</hi> abound in thee? and hath not theſe things greatly <hi>diſ<g ref="char:EOLhyphen"/>pleaſed</hi> the <hi>Lord?</hi> and for this cauſe is the <hi>anger</hi> of the <hi>Lord kindled,</hi> which will <hi>devour</hi> the <hi>Bryars</hi> and <hi>Thorns</hi> in one day, and in that Day <hi>whether will you flee?</hi> and <hi>where will you leave your glory?</hi> you that have gloriyed in <hi>profeſſing</hi> the <hi>Goſpel</hi> and <hi>Ordinances,</hi> and even made this a <hi>Covering</hi> for your <hi>Wickedneſs</hi> and <hi>Abomination,</hi> who under a pre<g ref="char:EOLhyphen"/>tence of <hi>ſeeking the Glory of God,</hi> have ſought honour to your ſelves, and to make your <hi>Names</hi> great on the earth: Is it not even thus oh <hi>England?</hi> and, Hath not thy <hi>Prophets that divine for money,</hi> and thy <hi>Prieſts that preach for hire,</hi> have not they flattered thee in thy <hi>Iniqui<g ref="char:EOLhyphen"/>ties?</hi> Have not they cryed, <hi>Peace to thy Rulers,</hi> even until the <hi>finger of the Lord</hi> hath broken forth againſt them, and they have been <hi>confound<g ref="char:EOLhyphen"/>ed?</hi> And wilt thou not for all this receive <hi>inſtruction</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <hi>correction,</hi> but ſtill go on in thy <hi>Wickedneſs</hi> and <hi>Rebellion</hi> againſt the <hi>Lord?</hi> What wilt thou <hi>revolt</hi> more and more, and ſhew more and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore <hi>Cruelty</hi> to
+<pb n="2" facs="tcp:45969:2" rendition="simple:additions"/>the <hi>Servants of the Lord;</hi> ſurely then more and more of the <hi>Indig<g ref="char:EOLhyphen"/>nation</hi> of the <hi>Lord</hi> thou muſt feel: What is it now become a trouble to thee to have <hi>ſin</hi> reproved in thy <hi>gates?</hi> Doſt thou make him an of<g ref="char:EOLhyphen"/>fender that ſpeaks the truth? And do thoſe men that <hi>teſtifie</hi> againſt thy <hi>Wickedneſs, break thy Peace,</hi> the peace of <hi>thy Rulers, and the peace of thy Prieſt?</hi> And do <hi>thy Prophets, that divine for money,</hi> and <hi>Prieſts that preach for hire,</hi> do they tell thee, that it would be a happineſs to thee, if thou were rid of thoſe men that reprove thee for thy <hi>Wickedneſs?</hi> Do not they even thus oh <hi>England?</hi> And do not many of thy <hi>People</hi> think and ſay the ſame? What would it be thy <hi>happineſs</hi> to ſin without re<g ref="char:EOLhyphen"/>proof? ſurely, nay; <hi>for if once they whoſe ſouls are vexed with thy fil<g ref="char:EOLhyphen"/>thy converſation, were driven out of thee;</hi> then would <hi>thy miſery come,</hi> and the Lord would make thee <hi>deſolate,</hi> even like <hi>Sodom,</hi> and <hi>Gomor<g ref="char:EOLhyphen"/>rah,</hi> which was overthrown, for an example of his <hi>Righteous judgments</hi> unto all that would not receive <hi>Inſtruction.</hi>
+            </p>
+            <p>Oh how is thy <hi>SILVER</hi> become <hi>Droſs!</hi> And thy <hi>LIBERTY</hi> be<g ref="char:EOLhyphen"/>come <hi>bondage!</hi> Oh how art thou gone <hi>Backward,</hi> and not <hi>Forward!</hi> even doating upon thy old <hi>Idolls,</hi> and not content that they ſhould worſhip them that have ſet their minds thereupon; but thou wouldeſt alſo <hi>Compel</hi> that <hi>remnant</hi> in thee, <hi>that are followers of the Lamb,</hi> for whoſe ſake the <hi>Lord</hi> hath long <hi>ſpared thee,</hi> and yet thou art ſo <hi>fooliſh,</hi> and <hi>unwiſe,</hi> (as much as in thee lyeth) to haſten on thy own <hi>Deſtructi<g ref="char:EOLhyphen"/>on:</hi> What may wickedneſs be <hi>tollerated</hi> in thee, and not be <hi>reproved?</hi> Is this the <hi>Liberty</hi> that thou now ſeeks after? Wouldeſt thou have <hi>Wickedneſs</hi> eſtabliſhed by a Law, and the <hi>reprovers</hi> thereof be condem<g ref="char:EOLhyphen"/>ned? Is it not even thus within thy borders? <hi>And yet for all this thou wilt lean upon the Lord, and ſay, is not he amongſt us, no evil can come unto us? and cry peace, peace, even till deſtruction come upon thee from the Lord:</hi> Oh how often hath the Lord invited thee! and even with his <hi>Love</hi> ſought to draw thee unto himſelf; <hi>but thou haſt refuſed his loving invitation, and grieved his holy Spirit from time to time:</hi> ſo that if the Lord <hi>ſay,</hi> as <hi>he once ſaid,</hi> concerning <hi>Ephraim,</hi> it is but juſt; <hi>Eng<g ref="char:EOLhyphen"/>land is joyned to Idols, let it alone;</hi> and then deſolation and miſery will come upon it. When I would comfort my heart againſt ſorrow, it is e<g ref="char:EOLhyphen"/>ven faint within me, to conſider what <hi>WARNINGS,</hi> from Time to Time haſt thou had, and this thou haſt, and doſt account thy trouble: But greater trouble ſhall come upon thee from the Lord, except thou repent: Oh how haſt thou <hi>choſen thy own Wayes</hi> and followed <hi>thy own Coun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>els,</hi> and would have <hi>Miniſters of thy own making,</hi> and <hi>Prophets</hi> which would flatter thee in thy <hi>Wickedneſs,</hi> and <hi>Propheſy</hi> ſmooth
+<pb n="3" facs="tcp:45969:3"/>thing unto thee, even the deceit of their own hearts, and this thou haſt <hi>loved</hi> rather than plain and honeſt dealing; and now what ſhall the Lord do unto thee for thoſe things? Shall not he <hi>recompence</hi> thee ac<g ref="char:EOLhyphen"/>cording to thy <hi>wayes</hi> and <hi>doings?</hi> and in that day thou ſhalt confeſs to his <hi>Righteus judgments.</hi> How have <hi>thy Prieſts</hi> ſtirred up thy <hi>Rulers</hi> againſt <hi>a harmleſs people?</hi> even like as <hi>Amazia the Prieſts of Bethel did,</hi> who complained againſt <hi>Amos the Prophet,</hi> ſaying, <hi>Amos hath con<g ref="char:EOLhyphen"/>ſpired againſt the King,</hi> the <hi>Land is not</hi> able <hi>to bear his words;</hi> is it not even thus among thy <hi>Prieſts,</hi> Oh <hi>England!</hi> and alas, What have this <hi>People</hi> done againſt thee, I mean the <hi>diſpiſed remnant</hi> which are called <hi>QUAKERS?</hi> What evil have they done, that thou art ſo mightily troubled? What do thy <hi>Prieſts</hi> ſay concerning them, do they ſay they are <hi>Hereticks,</hi> and ſuch like? But <hi>How, When,</hi> or <hi>Where</hi> did they prove it againſt them, within thy <hi>borders?</hi> it is good for all thy <hi>Inhabitants,</hi> Oh <hi>England,</hi> to conſider of this matter, and not <hi>Imbrue</hi> their <hi>hands</hi> in the <hi>Bl<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> of the <hi>Innocent;</hi> for of a truth the Lord hath raiſed this <hi>Peo<g ref="char:EOLhyphen"/>ple</hi> up within thy <hi>borders,</hi> to make thee a <hi>happy</hi> and a bleſſed <hi>Nation,</hi> for even in <hi>HIM, in whom they have believed, the Nations comes to be bleſſed,</hi> even in <hi>JESUS-CHRIST the Covenant, the Light which is given for ſalvation to the ends of the earth,</hi> of whom they have <hi>born,</hi> and do <hi>bear</hi> their <hi>Teſtimony</hi> within thy <hi>borders,</hi> of which <hi>Teſtimony</hi> they need never be <hi>aſhamed;</hi> which if thou ſhouldeſt alwaies <hi>reject,</hi> and go on in thy <hi>Rebellion,</hi> thou wilt be moſt <hi>Unhappy</hi> and <hi>Miſerable,</hi> even the worſt of the <hi>Nations:</hi> and therefore it is my <hi>deſire</hi> in the <hi>bowels</hi> of <hi>love,</hi> as being one of thy <hi>Inhabitants,</hi> who wiſhing thy <hi>welfare,</hi> and <hi>happineſs,</hi> that thou mayeſt ſeriouſly <hi>Meditate</hi> upon the <hi>dealings of</hi> God with thee, and upon his <hi>loving kindneſs</hi> which hath been, and yet is <hi>Tendered</hi> unto thee; and that thou mayeſt return to the Lord, is the earneſt deſire of my <hi>ſoul;</hi> leſt it be ſaid to thee, as Chriſt once ſaid to <hi>Jeruſalem;</hi> O ENGLAND ENGLAND, <hi>thou that killeſt the Pro<g ref="char:EOLhyphen"/>phets, and ſtoneſt them that are ſent unto thee; how often would I have gathered thy Children together, as a Hen gathereth her Chickens un<g ref="char:EOLhyphen"/>der her wings, but you would not? Oh that thou hadſt known in this thy Day, the things that belong to thy peace, but now they are hid from thine eyes.</hi>
+            </p>
+            <closer>
+               <signed>JOHN BRAITHWAIT.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
